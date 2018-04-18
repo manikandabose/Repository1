@@ -1,0 +1,10 @@
+ Volume in drive D is ENTERTAINMENT
+ Volume Serial Number is 15F6-C227
+
+ Directory of D:\Git\ProjectTest
+
+04/19/2018  01:13 AM    <DIR>          .
+04/19/2018  01:13 AM    <DIR>          ..
+04/19/2018  01:13 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  11,580,657,664 bytes free
